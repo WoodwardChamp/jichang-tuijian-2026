@@ -1,0 +1,155 @@
+{
+  "owner": "WoodwardChamp",
+  "repo": "jichang-tuijian-2026",
+  "source_structure": "机场仓/汇总仓-jichang-tuijian-2026/README.md",
+  "entries": [
+    {
+      "name": "秒连云",
+      "repo": "miaolianyun-jichang",
+      "url": "https://github.com/WoodwardChamp/miaolianyun-jichang",
+      "anchor": "#miaolianyun-jichang"
+    },
+    {
+      "name": "赛博云",
+      "repo": "saiboyun-jichang",
+      "url": "https://github.com/WoodwardChamp/saiboyun-jichang",
+      "anchor": "#saiboyun-jichang"
+    },
+    {
+      "name": "赔钱机场",
+      "repo": "peiqian-jichang",
+      "url": "https://github.com/WoodwardChamp/peiqian-jichang",
+      "anchor": "#peiqian-jichang"
+    },
+    {
+      "name": "贝贝云",
+      "repo": "beibei-jichang",
+      "url": "https://github.com/WoodwardChamp/beibei-jichang",
+      "anchor": "#beibei-jichang"
+    },
+    {
+      "name": "BiuBiu",
+      "repo": "biubiu-jichang",
+      "url": "https://github.com/WoodwardChamp/biubiu-jichang",
+      "anchor": "#biubiu-jichang"
+    },
+    {
+      "name": "糖果云",
+      "repo": "candy-jichang",
+      "url": "https://github.com/WoodwardChamp/candy-jichang",
+      "anchor": "#candy-jichang"
+    },
+    {
+      "name": "哆啦A梦",
+      "repo": "doraemon-jichang",
+      "url": "https://github.com/WoodwardChamp/doraemon-jichang",
+      "anchor": "#doraemon-jichang"
+    },
+    {
+      "name": "红杏云",
+      "repo": "hongxing-jichang",
+      "url": "https://github.com/WoodwardChamp/hongxing-jichang",
+      "anchor": "#hongxing-jichang"
+    },
+    {
+      "name": "极速123",
+      "repo": "jisu123-jichang",
+      "url": "https://github.com/WoodwardChamp/jisu123-jichang",
+      "anchor": "#jisu123-jichang"
+    },
+    {
+      "name": "极速Cloud",
+      "repo": "jisucloud-jichang",
+      "url": "https://github.com/WoodwardChamp/jisucloud-jichang",
+      "anchor": "#jisucloud-jichang"
+    },
+    {
+      "name": "山海",
+      "repo": "shanhai-jichang",
+      "url": "https://github.com/WoodwardChamp/shanhai-jichang",
+      "anchor": "#shanhai-jichang"
+    },
+    {
+      "name": "乌龟加速",
+      "repo": "wugui-jichang",
+      "url": "https://github.com/WoodwardChamp/wugui-jichang",
+      "anchor": "#wugui-jichang"
+    },
+    {
+      "name": "星维",
+      "repo": "xinwei-jichang",
+      "url": "https://github.com/WoodwardChamp/xinwei-jichang",
+      "anchor": "#xinwei-jichang"
+    },
+    {
+      "name": "云帆",
+      "repo": "yunfan-jichang",
+      "url": "https://github.com/WoodwardChamp/yunfan-jichang",
+      "anchor": "#yunfan-jichang"
+    }
+  ],
+  "entry_count": 14,
+  "readme_bytes": 23526,
+  "woodward_repo_links": 64,
+  "cw11ark_repo_links": 0,
+  "topics_count": 12,
+  "pass": true,
+  "referenced_local_assets": [
+    "assets/mly.png",
+    "assets/saibo.png",
+    "assets/pq.png"
+  ],
+  "missing_local_assets": [],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 23526,
+      "sha256": "72bb59018109e2d5705494c07ee247dbc0139979f852dd76ef57b1d6af67a9d9"
+    },
+    {
+      "path": "assets/mly.png",
+      "bytes": 655475,
+      "sha256": "7c35ba7a089e5d50ac79a0dcd5368606ab46a551dcac4756571571a75c18d69d"
+    },
+    {
+      "path": "assets/pq.png",
+      "bytes": 721683,
+      "sha256": "aaf8ad9458a98c2ba7b23d34ce31791c9573c7222f0287ad984180d4ab3fc905"
+    },
+    {
+      "path": "assets/saibo.png",
+      "bytes": 1230100,
+      "sha256": "b9566a3e980b8cc50511cc0613f75a2ec5b4c9fc2a6d27e717054c7a078c49fb"
+    },
+    {
+      "path": "data/speed-results.json",
+      "bytes": 73699,
+      "sha256": "026d14298074f2e7376a51a84877f4ddce6cf38f380ace8a45a6df7abb666a1c"
+    },
+    {
+      "path": "data/tested_at.json",
+      "bytes": 262,
+      "sha256": "a4d0f51d07d4259a132b49fd5036da9db83ac726beb35b8c337b1bed97c43e5d"
+    },
+    {
+      "path": "repo-meta.json",
+      "bytes": 362,
+      "sha256": "f515aff76b6bcaf8ed8aee0241e64f35f879179dc9d4bb7a7f18a6cfa2b69b1f"
+    }
+  ],
+  "topics": [
+    "jichang",
+    "airport-review",
+    "airport-2026",
+    "vpn",
+    "proxy",
+    "clash",
+    "subscription",
+    "pricing",
+    "china-vpn",
+    "scientific-internet",
+    "plan-comparison",
+    "jichang-tuijian"
+  ],
+  "description": "2026 airport review hub with 14 WoodwardChamp guides, pricing notes and direct repository navigation."
+}
