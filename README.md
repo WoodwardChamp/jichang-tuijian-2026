@@ -387,3 +387,18 @@
 | [乌龟加速](https://github.com/WoodwardChamp/wugui-jichang#乌龟加速机场18-元月-200g月付档家庭不限设备2026-10-31-更新) | 18 元/月 200G，IEPL | 33 行 | [wugui-jichang](https://github.com/WoodwardChamp/wugui-jichang) |
 | [飞兔云](https://github.com/WoodwardChamp/feituyun-jichang#飞兔云机场99-元月-118g80-多国节点与-1-倍中转2026-11-01-更新 | 9.9 元/月 118G，80+ 多国节点 1 倍中转 | 延迟实测 | [feituyun-jichang](https://github.com/WoodwardChamp/feituyun-jichang) |
 | [TAG](https://github.com/WoodwardChamp/tag-jichang#tag机场330-线路覆盖-100-国家冷门地区与家宽资源丰富2026-11-01-更新 | 330+ 线路 100+ 国家，冷门地区与家宽 | 326 行 | [tag-jichang](https://github.com/WoodwardChamp/tag-jichang) |
+
+<!-- P016-VERIFIED-NAV-START -->
+## 本轮已核验新站
+
+- [FlyingBird](https://github.com/WoodwardChamp/09-flyingbird-jichang) · [官网注册](https://fbinv02.fbaff.cc/auth/register?code=KUtIhkoL)
+- [FastLink](https://github.com/WoodwardChamp/11-fastlink-jichang) · [官网注册](https://a01.flaff9.cc/auth/register?code=EC80x83h)
+- [一云梯](https://github.com/WoodwardChamp/12-jichang) · [官网注册](https://i01.1ytaff01.cc/register?aff=H0YQmovD)
+- [泡芙云](https://github.com/WoodwardChamp/14-jichang) · [官网注册](https://www.paofu.cloud/auth/register?code=f4ND)
+- [青云梯](https://github.com/WoodwardChamp/15-jichang) · [官网注册](https://inv02.qytaff.cc/register?aff=29Wq9LnO)
+- [龙猫云](https://github.com/WoodwardChamp/18-jichang) · [官网注册](https://inv06.lmaff01.cc/register?aff=MQezCjhG)
+- [酷酷云KuKuYun](https://github.com/WoodwardChamp/21-kukuyun-jichang) · [官网注册](https://i01.kkyaffa.cc/register?aff=vpwMjPQ0)
+- [Nerwo奶瓶 / Paxora](https://github.com/WoodwardChamp/22-nerwo-jichang) · [官网注册](https://invite.eleven.observer/#/register?code=tnOXkma3)
+
+以上 8 个注册入口均为本站推广链接；经这些链接注册或购买，本站可能获得佣金。
+<!-- P016-VERIFIED-NAV-END -->
