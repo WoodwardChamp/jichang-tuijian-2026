@@ -103,7 +103,6 @@
 
 - [打开 WoodwardChamp/yunfan-jichang](https://github.com/WoodwardChamp/yunfan-jichang)
 
-
 | | |
 |---|---|
 | 收录 | 14 家自用机场 |
@@ -153,7 +152,6 @@
 | 980G不限时 | 980G 一次性 | — | 160M | **198 元** | — | — | — | — | — | — |
 
 > 全套餐统一 160 Mbps 限速，升档只加流量不加速度。年付活动为单独商品，不走档位折扣。
-
 
 #### 秒连云 测速
 
@@ -215,7 +213,6 @@
 
 > 限速随套餐档位递增；42 元及以上两档官网未标注限速。
 
-
 #### 赛博云 测速
 
 本次 连通 59 / 共 62 节点：节点平均速度最高 9.3 MB/s，每节点连测 3 次取最优。
@@ -270,7 +267,6 @@
 | 顶级王冠99999GB流量订阅(不限时长永久订阅) | 99999G 一次性 | 300 | 不限 | **688 元** | — | — | — | — | — | — |
 
 > 月流量按 20% 用量限速为「每天流量限制为总的20%」的公平使用；0.1 倍节点计入同额度，实际可用量约为标称 10 倍。
-
 
 #### 赔钱机场 测速
 
@@ -434,5 +430,4 @@
 - [极速Cloud](https://github.com/WoodwardChamp/jisucloud-jichang) · [官网注册](https://191.101.132.80/#/register?code=jR8v0DFd)
 - [贝贝云](https://github.com/WoodwardChamp/beibei-jichang) · [官网注册](https://2beibei.com/register?code=tYdL5jFF)
 
-以上注册入口均为本站推广链接；经这些链接注册或购买，本站可能获得佣金。
 <!-- P016-VERIFIED-NAV-END -->
